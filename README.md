@@ -19,3 +19,10 @@ Change yourpassword in TplinkDeviceScraperService
 Run mvn clean package -B 
 
 Start the jar 
+
+Add ?dark=true to URL for dark mode 
+
+## Images
+
+![grafik](https://github.com/FayeDE/TplinkDeviceScraper/assets/11154004/13d14761-42dd-4569-a571-8f16d3d3a194)
+
